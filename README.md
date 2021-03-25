@@ -4,7 +4,7 @@
 Durante esta **Next Level Week** foi desenvolvido <b>O move.it</b>.
 
 <div align="center">
-    <img alt="move.it" title="move.it" src=".github/moveit-next/logo.png" />
+    <img alt="move.it" title="move.it" src="https://github.com/Erika-Skarda/NLW4-React/blob/main/moveit-next/public/logo-full.svg" />
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@ O move.it é um app que une a técnica de Pomodoro com a realização de exercí
 ## Deploy
 
 <p align="justify">
-  O deploy do projeto foi realizado no vercel e encontra-se disponível em: [NLW4-Reatc](https://nlw-4-react-pink.vercel.app/)
+  O deploy do projeto foi realizado no vercel e encontra-se disponível em: (https://nlw-4-react-pink.vercel.app/)
 </p>
 
 ## Como rodar a aplicação :arrow_forward:
