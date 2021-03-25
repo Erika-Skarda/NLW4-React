@@ -70,4 +70,6 @@ npm start
 
 ## Linkedin
 
-[Linkedin](https://www.linkedin.com/in/erika-skarda) 
+  <p>    
+        Feito com 💜 <a href="https://www.linkedin.com/in/erika-skarda/" target="_blank">Erika Skarda</a>
+  </p>
