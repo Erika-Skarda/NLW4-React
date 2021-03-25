@@ -13,6 +13,7 @@ Durante esta **Next Level Week** foi desenvolvido <b>O move.it</b>.
   <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>  
 </div>
 </br>
+
 > Status do Projeto: Concluído :heavy_check_mark: 
 
 <div align="center">
@@ -20,13 +21,7 @@ Durante esta **Next Level Week** foi desenvolvido <b>O move.it</b>.
     <a href="#-o-projeto">O projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#">Iniciando a jornada</a>
     </h2>
-</div>
-
-## Vídeo 🎥	
-
-<p align="center">
-https://www.loom.com/share/be9c1223a21140ce8631983d2a57b633
-</p> 
+</div> 
 </br>   
 </br>
 
@@ -34,7 +29,7 @@ https://www.loom.com/share/be9c1223a21140ce8631983d2a57b633
 
 O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
 
-## Deploy
+## 🎊 Deploy
 
 <p align="justify">
   O deploy do projeto foi realizado no vercel e encontra-se disponível em: (https://nlw-4-react-pink.vercel.app/)
@@ -53,7 +48,7 @@ npm install
 ```
 Por último, suba a aplicação: 
 ```
-npm start
+npm run dev
 ```
 
 ## Linguagens, dependencias e libs utilizadas :books:
