@@ -65,7 +65,9 @@ npm start
 
 ## Linguagens, dependencias e libs utilizadas :books:
 
-- [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/download/)
+- [React](https://reactjs.org)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## Desenvolvido Por :octocat:
 
