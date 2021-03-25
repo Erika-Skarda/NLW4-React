@@ -1,7 +1,7 @@
 
 # NLW 4 :rocket:
 
-Durante esta **Next Level Week** foi desenvolvido <b>O move.it</b> é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+Durante esta **Next Level Week** foi desenvolvido <b>O move.it</b>.
 
 <div align="center">
     <img alt="move.it" title="move.it" src=".github/logo.png" />
@@ -27,19 +27,14 @@ Durante esta **Next Level Week** foi desenvolvido <b>O move.it</b> é um app que
 <p align="center">
 https://www.loom.com/share/be9c1223a21140ce8631983d2a57b633
 </p> 
-</br>
-<p align="center">
-    <img src="https://img.shields.io/static/v1?label=html&message=framework&color=red&style=for-the-badge&logo=HTML" />
-    <img src="https://img.shields.io/static/v1?label=Javascript&message=framework&color=yellow&style=for-the-badge&logo=JAVASCRIPT" />
-    <img src="https://img.shields.io/static/v1?label=bootstrap&message=library&color=purple&style=for-the-badge&logo=BOOTSTRAP"/>
-</p>   
+</br>   
 </br>
 
 > Status do Projeto: Concluído :heavy_check_mark:  
 
-## Descrição
+## 💻 Projeto
 
-Site estático com aplicação de Bootstrap.
+O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
 
 ## Deploy
 
