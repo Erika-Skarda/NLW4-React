@@ -1,5 +1,26 @@
 
-# NLW4 - React
+# NLW 4 :rocket:
+
+Durante esta **Next Level Week** foi desenvolvido <b>O move.it</b> é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
+
+<div align="center">
+    <img width="600px" src="https://i.ytimg.com/vi/5CZmkjFHe4U/maxresdefault.jpg" alt="Next Level Week #4">
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?label=redux&message=library&color=yellow&style=for-the-badge&logo=NODE"/>
+  <img src="https://img.shields.io/static/v1?label=jest&message=language&color=green&style=for-the-badge&logo=JEST"/>
+  <img src="https://img.shields.io/static/v1?label=typescript&message=language&color=blue&style=for-the-badge&logo=TYPESCRIPT"/>  
+</div>
+
+> Status do Projeto: Concluído :heavy_check_mark: 
+
+<div align="center">
+    <h2>
+    <a href="#-o-projeto">O projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#">Iniciando a jornada</a>
+    </h2>
+</div>
 
 ## Vídeo 🎥	
 
