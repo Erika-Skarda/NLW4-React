@@ -37,7 +37,7 @@ O move.it é um app que une a técnica de Pomodoro com a realização de exercí
 ## Deploy
 
 <p align="justify">
-  O deploy do projeto foi realizado no vercel e encontra-se disponível em: [Caravan](https://caravan-cyan.vercel.app/index.html)
+  O deploy do projeto foi realizado no vercel e encontra-se disponível em: [NLW4-Reatc](https://nlw-4-react-pink.vercel.app/)
 </p>
 
 ## Como rodar a aplicação :arrow_forward:
