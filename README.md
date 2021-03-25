@@ -30,8 +30,6 @@ https://www.loom.com/share/be9c1223a21140ce8631983d2a57b633
 </br>   
 </br>
 
-> Status do Projeto: Concluído :heavy_check_mark:  
-
 ## 💻 Projeto
 
 O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
