@@ -4,7 +4,7 @@
 Durante esta **Next Level Week** foi desenvolvido <b>O move.it</b>.
 
 <div align="center">
-    <img alt="move.it" title="move.it" src=".github/logo.png" />
+    <img alt="move.it" title="move.it" src=".github/moveit-next/logo.png" />
 </div>
 
 <div align="center">
